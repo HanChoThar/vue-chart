@@ -29,7 +29,7 @@ import ChartDeatails from './components/ChartDeatails.vue';
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 0 3rem;
+  margin: 0 1.5rem;
 }
 
 </style>
